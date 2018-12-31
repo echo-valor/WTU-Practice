@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="src/lib/audio.jar"/>
+	<classpathentry kind="lib" path="src/lib/jacob-1.14.3.jar"/>
+	<classpathentry kind="lib" path="src/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="src/lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="src/lib/seaglass-demo.jar"/>
+	<classpathentry kind="lib" path="src/lib/SwingSets3(BeautyEyeLNFDemo).jar"/>
+	<classpathentry kind="lib" path="src/lib/swingx-core-1.6.2-java7-patched.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-dbutils-1.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-dbutils-1.7-sources.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-dbutils-1.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-dbutils-1.7-tests.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-dbutils-1.7.jar"/>
+	<classpathentry kind="lib" path="src/lib/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-examples-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

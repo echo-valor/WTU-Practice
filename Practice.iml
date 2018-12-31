@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/src/lib/audio.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/jacob-1.14.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/jxl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/seaglass-demo.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/SwingSets3(BeautyEyeLNFDemo).jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/swingx-core-1.6.2-java7-patched.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7-javadoc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7-sources.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7-test-sources.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7-tests.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/mysql-connector-java-5.0.4-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/poi-3.11-20141221.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/poi-examples-3.11-20141221.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/src/lib/poi-excelant-3.11-20141221.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="audio.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/audio.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jacob-1.14.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/jacob-1.14.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/jxl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.6-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="seaglass-demo.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/seaglass-demo.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="SwingSets3(BeautyEyeLNFDemo).jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/SwingSets3(BeautyEyeLNFDemo).jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swingx-core-1.6.2-java7-patched.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/swingx-core-1.6.2-java7-patched.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbutils-1.7-javadoc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7-javadoc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbutils-1.7-sources.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbutils-1.7-test-sources.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7-test-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbutils-1.7-tests.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7-tests.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbutils-1.7.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/commons-dbutils-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.0.4-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/mysql-connector-java-5.0.4-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-3.11-20141221.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/poi-3.11-20141221.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-examples-3.11-20141221.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/poi-examples-3.11-20141221.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-excelant-3.11-20141221.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/lib/poi-excelant-3.11-20141221.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
