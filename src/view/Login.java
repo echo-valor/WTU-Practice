@@ -1,15 +1,15 @@
 package view;
-import java.awt.*;
-import java.awt.event.*;
-
-import javax.swing.*;
-
 import model.dao.UserDao;
 import model.vo.User;
-
 import org.jb2011.lnf.beautyeye.ch3_button.BEButtonUI;
-
 import util.MD5Util;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
 public class Login extends JFrame implements ActionListener{
 	public static String yuanname=null;
 	public static String ypsd=null;
@@ -127,7 +127,8 @@ public class Login extends JFrame implements ActionListener{
 		jLabel_User.setIcon(new ImageIcon("src/images/user.gif"));
 		jLabel_User.setText("User");
 
-		jContentPane = new JPanel();// 新建jPanel面板
+		// 新建jPanel面板
+		jContentPane = new JPanel();
 		jContentPane.setLayout(null);
 		jContentPane.add(jLabel_userName, null);
 		jContentPane.add(jLabel_password, null);
